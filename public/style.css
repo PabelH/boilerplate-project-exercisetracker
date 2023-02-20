@@ -5,8 +5,8 @@
 body {
   font-family:sans-serif;
   margin: 25px;
-  color: #222;
-  background-color: #f5f5f5;
+  color: #ffffff;
+  background-color: #070042;
 }
 
 h1 {
@@ -21,7 +21,7 @@ p {
 form {
   margin-bottom: 25px;
   padding: 15px;
-  background-color: #87D37C;
+  background-color: #858585;
   display: inline-block;
   width: 100%;
   max-width: 340px;
@@ -54,6 +54,6 @@ input[type=submit]:hover {
 code {
   font-family: monospace;
   font-size: 1.2em;
-  background-color: #FFFEC4;
+  background-color: #636363;
   padding: 2px;
 }
